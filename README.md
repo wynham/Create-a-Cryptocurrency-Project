@@ -68,24 +68,23 @@ contract KaseiCoinCrowdsaleDeployer {
 
 ## Examples
 
-#### This first shows the Remix IDE after we define the addresses for the joint account.
+#### This is for step 5 of the module challenge, where I record a video of a demo of the deployed contract in action. I use Remix, MetaMask, and Ganache for this step.
 
-![define addresses](./Execution_Results/define_addresses.png)
-
-
-#### In this image, we see the total Ether smart contract balance (in wei) after depositing 16 ether into the smart contract.
-
-![ether](./Execution_Results/deposit_5_ether.png)
+![deploment_walkthrough](./Execution_Results/deployment_walkthrough.gif)
 
 
-#### Here we see a transaction where we withdraw 10 ether into account 2.
+#### This image shows the KaseiCoin token contract after being compiled.
+![ether](./Execution_Results/token_contract.png)
 
-![transaction](./Execution_Results/withdraw_account_2.png)
+
+#### This image shows the KaseiCoin crowdsale contract after being compiled.
+
+![transaction](./Execution_Results/crowdsale_contract.png)
 
 
-#### This final image shows a list of the transactions in the Remix IDE.
+#### This image shows the KaseiCoin deployer contract after being compiled.
 
-![recipient](./Execution_Results/transaction_list.png)
+![recipient](./Execution_Results/deployer_contract.png)
 
 
 ---
