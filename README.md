@@ -6,6 +6,10 @@ In this challenge I created a fungible token that is ERC-20 compliant and that i
 
 The crowdsale contract that I created manages the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. My contract mints the tokens automatically and distributes them to buyers in one transaction.
 
+#### This is for step 5 of the module challenge, where I record a video of a demo of the deployed contract in action. I use Remix, MetaMask, and Ganache for this step.
+
+![deploment_walkthrough](./Execution_Results/deployment_walkthrough.gif)
+
 ---
 
 ## Technologies
@@ -67,10 +71,6 @@ contract KaseiCoinCrowdsaleDeployer {
 ---
 
 ## Examples
-
-#### This is for step 5 of the module challenge, where I record a video of a demo of the deployed contract in action. I use Remix, MetaMask, and Ganache for this step.
-
-![deploment_walkthrough](./Execution_Results/deployment_walkthrough.gif)
 
 
 #### This image shows the KaseiCoin token contract after being compiled.
